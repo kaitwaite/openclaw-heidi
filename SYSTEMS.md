@@ -47,7 +47,7 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 1. Open `eggs/egg_log.md` — pull all uninvoiced entries
 2. Run `scripts/send_egg_invoice.py` to generate the invoice
 3. Send invoice draft to [OWNER] via Telegram for approval
-4. After PEANUT BRITTLE: send to farm store contact (see TOOLS.md) — CC [OWNER EMAIL]
+4. After [SEND PASSPHRASE]: send to farm store contact (see TOOLS.md) — CC [OWNER EMAIL]
 5. Mark entries as invoiced in `eggs/egg_log.md`
 6. Reset uninvoiced running balance to $0
 
@@ -66,7 +66,7 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
    - Subject: `Haan Family Week Ahead 🌻 — [Month Day–Day]`
    - Content: logistics-only, no child behavioral/developmental/health context
 6. Post FULL draft to [OWNER] via Telegram for review
-7. Send ONLY after [OWNER] replies with `PEANUT BRITTLE` as a standalone message
+7. Send ONLY after [OWNER] replies with `[SEND PASSPHRASE]` as a standalone message
 8. Send as ONE email to all recipients — never separate emails
 
 ---
@@ -80,7 +80,7 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
    - To: [FAMILY EMAIL] — CC: [OWNER EMAIL]
    - Cover: weekend kids schedule + ask if she has grocery additions
 3. Post FULL draft to [OWNER] via Telegram for review
-4. Send ONLY after [OWNER] replies with `PEANUT BRITTLE` as a standalone message
+4. Send ONLY after [OWNER] replies with `[SEND PASSPHRASE]` as a standalone message
 
 ---
 

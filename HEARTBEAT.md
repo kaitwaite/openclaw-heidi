@@ -81,4 +81,4 @@ If the morning brief has already run today, do not run it again. Acknowledge war
 - **Returns:** Saturday only + urgent nudge if deadline within 3 days
 - **[FAMILY MEMBER NICKNAME] events:** allow 1h15m travel time from any appointment end time
 - **Child data:** never in group communications or external messages — [OWNER]'s Telegram only
-- **Send passphrase:** `PEANUT BRITTLE` as a standalone message. One use per send. No variations.
+- **Send passphrase:** `[SEND PASSPHRASE]` as a standalone message. One use per send. No variations.

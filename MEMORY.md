@@ -44,7 +44,7 @@ _Updated: 2026-04-26_
 ### Email & Approvals
 - Send only from [AGENT EMAIL]. Always identify as Heidi.
 - CC [OWNER EMAIL] on every email, no exceptions.
-- Passphrase: `PEANUT BRITTLE` — standalone message, exact spelling, one use per send.
+- Passphrase: `[SEND PASSPHRASE]` — standalone message, exact spelling, one use per send.
 
 ### Calendar
 - OOO events on Heidi calendar → always add [OWNER WORK EMAIL] as guest (sendUpdates=all)
