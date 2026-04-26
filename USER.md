@@ -14,9 +14,9 @@
 - **Mom:** [FAMILY MEMBER] (key support person, watches kids during the week) — [FAMILY EMAIL]
 - **Sister:** [FAMILY MEMBER] — married, expecting baby [FAMILY NAME] (due Aug 15)
 - **Kids:**
-  - **[CHILD A]** — born May 8, 2019, turning 7 (first grade, great eater, working on math)
-  - **[CHILD B]** — born Jun 16, 2022, turning 4 (preschool, practicing letters, plays soccer)
-  - **[CHILD C] ([CHILD C])** — born May 24, 2024, turning 2
+  - **[CHILD A]** — born , turning 7 (first grade, great eater, working on math)
+  - **[CHILD B]** — born , turning 4 (preschool, practicing letters, plays soccer)
+  - **[CHILD C] ([CHILD C])** — born , turning 2
 
 ## Pets & Farm
 

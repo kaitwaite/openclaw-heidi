@@ -111,6 +111,8 @@ def sync(dry_run=False, push=False):
         try:
             content = src_path.read_text(encoding="utf-8")
             content = strip_sections(content, config)
+            for inline in config.get("exclude_inline", []):
+                content = content.replace(inline, "")
             redacted = redact_content(content, config)
             dest_path.write_text(redacted, encoding="utf-8")
         except (UnicodeDecodeError, IsADirectoryError):
