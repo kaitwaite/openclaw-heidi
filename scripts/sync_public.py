@@ -40,6 +40,14 @@ def should_exclude(path: Path, config: dict, source_root: Path) -> bool:
 
     return False
 
+def strip_sections(content: str, config: dict) -> str:
+    """Remove entire markdown sections by heading name."""
+    for heading in config.get("exclude_sections", []):
+        # Match ## Heading through the next ## heading (or end of file)
+        pattern = rf'(\n|^)## {re.escape(heading)}.*?(?=\n## |\Z)'
+        content = re.sub(pattern, '', content, flags=re.DOTALL)
+    return content
+
 def redact_content(content: str, config: dict) -> str:
     # Apply string substitutions (longest first to avoid partial matches)
     strings = config.get("strings", {})
@@ -102,6 +110,7 @@ def sync(dry_run=False, push=False):
         # Text files: redact. Binary files: copy as-is.
         try:
             content = src_path.read_text(encoding="utf-8")
+            content = strip_sections(content, config)
             redacted = redact_content(content, config)
             dest_path.write_text(redacted, encoding="utf-8")
         except (UnicodeDecodeError, IsADirectoryError):

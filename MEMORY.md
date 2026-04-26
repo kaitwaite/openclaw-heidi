@@ -62,20 +62,6 @@ _Updated: 2026-04-26_
 
 ---
 
-## Upcoming Dates (next 90 days)
-
-| Date | Event | Action |
-|------|-------|--------|
-| May 1 | [FAMILY PET] meds | Remind [OWNER] morning of |
-| May 8 | [CHILD A]'s 7th birthday | Family party (combined with Mother's Day) + friend party |
-| May 18–24 | [FAMILY HORSE] Sand Clear week | Flag in morning brief each day |
-| May 24 | [CHILD C]'s 2nd birthday | Family party |
-| Jun 16 | [CHILD B]'s 4th birthday | Invites should go out ~May 16 |
-| Jul 22 | Remind re: [PARTNER]'s birthday (Aug 5) | 2-week heads-up, needs something thoughtful |
-| Aug 15 | [FAMILY BABY] due | Package baby items well before this |
-
----
-
 ## Lessons Learned
 
 - **Weather must be fresh** — always fetch from Open-Meteo at brief time. Never use cached or prior-context weather. Stale weather was served on Apr 22 (session had 7:25 PM forecast from the prior evening).
