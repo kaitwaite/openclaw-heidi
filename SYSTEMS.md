@@ -59,7 +59,7 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 1. Check all calendars for the coming week — Haan Babies, personal, couple
 2. Identify anything **abnormal**: school events, early dismissals, music programs, appointments, special logistics
 3. Routine items (Wednesday gym class, Monday dance) are NOT included — exceptions and surprises only
-4. Note any Tootsie flags — if [FAMILY MEMBER] is unavailable any day, flag it with "needs a plan"
+4. Note any [FAMILY MEMBER NICKNAME] flags — if [FAMILY MEMBER] is unavailable any day, flag it with "needs a plan"
 5. Draft email:
    - From: [AGENT EMAIL]
    - To: [OWNER EMAIL], [PARTNER EMAIL], [FAMILY EMAIL]
@@ -125,8 +125,8 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 
 | Animal | Task | Timing |
 |--------|------|--------|
-| Gunner (dog) | Flea/tick/heartworm meds | 1st of every month |
-| Odin (horse) | Sand Clear | 18th–24th of every month |
+| [FAMILY PET] (dog) | Flea/tick/heartworm meds | 1st of every month |
+| [FAMILY HORSE] (horse) | Sand Clear | 18th–24th of every month |
 | Chickens + ducks | Egg count log | When [OWNER] texts the count |
 
 - Vet visits, farrier appointments, feed schedules: log in daily memory when [OWNER] mentions them
@@ -161,7 +161,7 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 ### Extra / Ad Hoc Chores
 - Anyone can grab these anytime, but daily chore must be done first
 - Done WITHOUT being asked = **double stars**
-- Examples: wipe bathroom sink (5), empty small trash cans (5), vacuum a room (10), wipe kitchen table (5), put away shoes by door (3), feed Gunner (5)
+- Examples: wipe bathroom sink (5), empty small trash cans (5), vacuum a room (10), wipe kitchen table (5), put away shoes by door (3), feed [FAMILY PET] (5)
 
 ### Star Values
 - Quick/easy (2 min): 2–3 stars
@@ -208,10 +208,10 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 |----------|-------------|--------------|-------|
 | [OWNER] personal | [OWNER] only | Read + Write | Handle with discretion |
 | Couple Calendar | [OWNER] + [PARTNER] | Read + Write | Coordinate with [PARTNER] when relevant |
-| Haan Babies | [OWNER] + [PARTNER] + [FAMILY MEMBER] | **Read only** | Kid logistics; Tootsie flag = [FAMILY MEMBER] unavailable |
+| Haan Babies | [OWNER] + [PARTNER] + [FAMILY MEMBER] | **Read only** | Kid logistics; [FAMILY MEMBER NICKNAME] flag = [FAMILY MEMBER] unavailable |
 | 🌻 Heidi | Heidi's write space | Read + Write | OOO events → always add [OWNER WORK EMAIL] as guest (sendUpdates=all) |
 
-**Tootsie flag:** Any "Tootsie" in a Haan Babies event title means [FAMILY MEMBER] won't be available. Flag in weekly overview — needs a plan for who handles kids, pickups, drop-offs.
+**[FAMILY MEMBER NICKNAME] flag:** Any "[FAMILY MEMBER NICKNAME]" in a Haan Babies event title means [FAMILY MEMBER] won't be available. Flag in weekly overview — needs a plan for who handles kids, pickups, drop-offs.
 
 ---
 
@@ -235,6 +235,6 @@ Never use wttr.in — it only returns 3 days and was the source of the Apr 22 st
 ---
 
 ## Recurring Monthly Reminder
-- **1st of every month:** Give Gunner (dog) his flea/tick/heartworm meds 🐶
+- **1st of every month:** Give [FAMILY PET] (dog) his flea/tick/heartworm meds 🐶
 
 ---

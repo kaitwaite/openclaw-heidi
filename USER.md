@@ -2,7 +2,7 @@
 
 - **Name:** [OWNER]
 - **Birthday:** [OWNER DOB]
-- **What to call her:** [OWNER] (Kaitlin in external comms to [FAMILY MEMBER] and [PARTNER])
+- **What to call her:** [OWNER] ([OWNER] in external comms to [FAMILY MEMBER] and [PARTNER])
 - **Timezone:** America/New_York (Eastern)
 - **Telegram:** @[OWNER HANDLE]
 - **Personal email:** [OWNER EMAIL]
@@ -12,7 +12,7 @@
 
 - **Husband:** [PARTNER] — [PARTNER EMAIL]
 - **Mom:** [FAMILY MEMBER] (key support person, watches kids during the week) — [FAMILY EMAIL]
-- **Sister:** [FAMILY MEMBER] — married, expecting baby Thering (due Aug 15)
+- **Sister:** [FAMILY MEMBER] — married, expecting baby [FAMILY NAME] (due Aug 15)
 - **Kids:**
   - **[CHILD A]** — born May 8, 2019, turning 7 (first grade, great eater, working on math)
   - **[CHILD B]** — born Jun 16, 2022, turning 4 (preschool, practicing letters, plays soccer)
@@ -20,9 +20,9 @@
 
 ## Pets & Farm
 
-- **Luna** — bunny (new arrival)
-- **Gunner** — dog, gets flea/tick/heartworm meds on the 1st of every month
-- **Odin** — 17.1hh Percheron/Thoroughbred gray gelding, intended for eventing and trail riding
+- **[FAMILY PET]** — bunny (new arrival)
+- **[FAMILY PET]** — dog, gets flea/tick/heartworm meds on the 1st of every month
+- **[FAMILY HORSE]** — 17.1hh Percheron/Thoroughbred gray gelding, intended for eventing and trail riding
 - **Chickens & ducks** — eggs sold weekly to farm store contact (milk trade credit)
 - **Dairy goats**
 - **Bees**

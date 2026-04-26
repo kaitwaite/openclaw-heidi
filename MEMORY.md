@@ -48,14 +48,14 @@ _Updated: 2026-04-26_
 
 ### Calendar
 - OOO events on Heidi calendar → always add [OWNER WORK EMAIL] as guest (sendUpdates=all)
-- "Tootsie" in any Haan Babies event = [FAMILY MEMBER] unavailable. Flag, needs a backup plan.
+- "[FAMILY MEMBER NICKNAME]" in any Haan Babies event = [FAMILY MEMBER] unavailable. Flag, needs a backup plan.
 
 ---
 
 ## Ongoing Situations (April 2026)
 
-- **[FRIEND] Calfe's baby** — due ~April 24. Watch for birth announcement.
-- **[FAMILY MEMBER]'s baby (Baby Thering)** — due August 15. Need to package up baby items from the house and ship ahead of due date.
+- **[FRIEND] [FRIEND LAST NAME]'s baby** — due ~April 24. Watch for birth announcement.
+- **[FAMILY MEMBER]'s baby ([FAMILY BABY])** — due August 15. Need to package up baby items from the house and ship ahead of due date.
 - **Brandon Walsh email** (Apr 23, subject "Meeting") — not yet reviewed in detail. Flag to [OWNER].
 - **Open returns** (as of Apr 25): Ubiquiti Networks 2-pack, Univivi Under Desk, Rugged Bear hiking shoes + 1 other, STQ Kids shoes. All deadlines unknown, all ship via UPS.
 - **Egg invoice backlog**: 11 dozen chicken eggs + 3 half dozen duck eggs = $56.00 owed. Farm store contact not yet confirmed — invoices to [OWNER] only for now.
@@ -74,13 +74,13 @@ _Updated: 2026-04-26_
 
 | Date | Event | Action |
 |------|-------|--------|
-| May 1 | Gunner meds | Remind [OWNER] morning of |
+| May 1 | [FAMILY PET] meds | Remind [OWNER] morning of |
 | May 8 | [CHILD A]'s 7th birthday | Family party (combined with Mother's Day) + friend party |
-| May 18–24 | Odin Sand Clear week | Flag in morning brief each day |
+| May 18–24 | [FAMILY HORSE] Sand Clear week | Flag in morning brief each day |
 | May 24 | [CHILD C]'s 2nd birthday | Family party |
 | Jun 16 | [CHILD B]'s 4th birthday | Invites should go out ~May 16 |
 | Jul 22 | Remind re: [PARTNER]'s birthday (Aug 5) | 2-week heads-up, needs something thoughtful |
-| Aug 15 | Baby Thering due | Package baby items well before this |
+| Aug 15 | [FAMILY BABY] due | Package baby items well before this |
 
 ---
 

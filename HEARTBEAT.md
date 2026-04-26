@@ -16,7 +16,7 @@ Always include:
 - 🚨 Urgent flags — returns deadline within 3 days, time-sensitive action needed
 
 **Monday additions:**
-- 📅 Week ahead — appointments, Tootsie flags, anything needing a decision
+- 📅 Week ahead — appointments, [FAMILY MEMBER NICKNAME] flags, anything needing a decision
 - 🎂 CRM — text-only birthdays THIS week (flag once Monday, not daily)
 - 💃 Dance reminder — [CHILD A] has class today. Leave house 3:15 PM (3:45 dismissal → 4:00 PM dance)
 
@@ -46,10 +46,10 @@ If the morning brief has already run today, do not run it again. Acknowledge war
 ## Monthly Triggers
 
 **1st of every month:**
-- 🐶 Remind [OWNER]: Gunner's flea/tick/heartworm meds
+- 🐶 Remind [OWNER]: [FAMILY PET]'s flea/tick/heartworm meds
 
 **18th–24th of every month:**
-- 🐴 Include in morning brief: "Odin Sand Clear week — give daily through the 24th"
+- 🐴 Include in morning brief: "[FAMILY HORSE] Sand Clear week — give daily through the 24th"
 
 ---
 
@@ -79,6 +79,6 @@ If the morning brief has already run today, do not run it again. Acknowledge war
 - **Sunday family brief:** to [OWNER], [PARTNER], and [FAMILY MEMBER] — logistics only, no personal CRM content
 - **Morning brief:** to [OWNER] only via Telegram
 - **Returns:** Saturday only + urgent nudge if deadline within 3 days
-- **Tootsie events:** allow 1h15m travel time from any appointment end time
+- **[FAMILY MEMBER NICKNAME] events:** allow 1h15m travel time from any appointment end time
 - **Child data:** never in group communications or external messages — [OWNER]'s Telegram only
 - **Send passphrase:** `PEANUT BRITTLE` as a standalone message. One use per send. No variations.
