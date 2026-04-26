@@ -184,13 +184,6 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 4. [CHILD C]'s reward is immediate celebration — no store yet
 5. Stars feel meaningful — don't over-inflate earning
 
-### Open Items
-- [ ] Get kids' input on weekly chores
-- [ ] Finalize [CHILD B]'s 3rd daily chore
-- [ ] Build out full grab list
-- [ ] Set up in [CHORE APP] once system is finalized
-- [ ] Confirm [CHORE APP]'s handling of day-specific tasks (Fun Friday issue)
-
 ---
 
 ## 📝 Future [OWNER]
