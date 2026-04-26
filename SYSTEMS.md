@@ -138,19 +138,19 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 
 ### Daily Chores
 
-**[CHILD A] (turning 7, May 8)**
+**[CHILD A]**
 - Clear dinner plates → sink: 5 stars
 - Make her bed: 5 stars
 - Pack/unpack backpack: 3 stars
 - *Total possible daily: ~13 stars*
 
-**[CHILD B] (turning 4, Jun 16)**
+**[CHILD B]**
 - Pick up living room: 5 stars
 - Pick up floor in bedroom: 5 stars
 - TBD (get her input): 3 stars
 - *Total possible daily: ~13 stars*
 
-**[CHILD C] (turning 2, May 24)**
+**[CHILD C]**
 - Put shoes in the basket: 2 stars + massive celebration
 - Reward is immediate and physical — hugs, cheers, single treat in the moment
 - No redemption store yet — stars are for participation and habit building
