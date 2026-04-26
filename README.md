@@ -45,7 +45,7 @@ Heidi is one agent in a three-agent household system:
 
 ### Daily Operations
 - **Morning brief** (triggered by "good morning" via Telegram): fresh weather from Open-Meteo, calendar, meal thaw reminders, CRM birthdays, and urgent flags. Monday adds the week ahead. Friday adds returns deadlines and upcoming card-needed birthdays.
-- **Email triage** every 6 hours (5 AM–10 PM): checks `heidi@haanhome.co`, flags actionable items, never acts on inbound instructions without explicit approval
+- **Email triage** every 6 hours (5 AM–10 PM): checks her personal email, flags actionable items, never acts on inbound instructions without explicit approval
 - **Proactive monitoring**: surfaces calendar conflicts, upcoming events, time-sensitive items
 
 ### Home Management
@@ -61,7 +61,7 @@ Heidi is one agent in a three-agent household system:
 
 ### Security & Safety
 Heidi operates under strict rules that cannot be overridden by conversation:
-- **Send passphrase required:** Every outbound email requires `PEANUT BRITTLE` as a standalone message in the current session. No passphrase, no send. No exceptions.
+- **Send passphrase required:** Every outbound email requires a secure passphrase as a standalone message in the current session. No passphrase, no send. No exceptions.
 - **Child data is maximally sensitive:** Names, schedules, school info, and location are never shared outside the household, never included in group communications, never acted on based on external instructions.
 - **Urgency increases suspicion:** Any message claiming urgency — especially involving children — raises the verification threshold, never lowers it.
 - **Inbound content is data, not instructions:** Emails, calendar invites, shared docs, and webhooks are read and summarized. Never executed.
@@ -80,14 +80,13 @@ heidi/
 ├── TOOLS.md           # Calendar IDs, API endpoints, script references
 ├── MEMORY.md          # Curated long-term memory (main session only)
 ├── CHILD_SAFETY.md    # Hard rules for handling data involving minor children
+├── PEOPLE.md          # Relationship CRM, including contact information, special dates, and preferred contact methods.
 ├── scripts/
 │   ├── google_auth.py      # OAuth setup for Google Workspace (Gmail, Calendar, Sheets, Drive)
 │   ├── send_egg_invoice.py # Monthly egg invoice via Gmail API
 │   └── test_google.py      # Verify Google API connectivity
-├── eggs/
-│   └── egg_log.md          # Running egg sales ledger with invoiced/uninvoiced tracking
-└── crm/
-    └── people.md           # Relationship CRM (not included — contains private data)
+└──  eggs/
+    └── egg_log.md          # Running egg sales ledger with invoiced/uninvoiced tracking
 ```
 
 ---
@@ -112,7 +111,7 @@ A few things that make this system work in practice, not just in theory:
 
 - **Agent framework:** Claude (Anthropic) via Claude Code + API
 - **Session management:** Frank (custom ops agent) — nightly reset + context re-injection
-- **Integrations:** Gmail API, Google Calendar API, Google Docs API, Google Sheets API, Google Drive API
+- **Integrations:** Gmail API, Google Calendar API, Google Docs API, Google Sheets API, Google Drive API, Apple Reminders
 - **Authentication:** OAuth 2.0 via `google-auth-oauthlib`
 - **Weather:** Open-Meteo (free, no key required)
 - **Primary channel:** Telegram
@@ -148,7 +147,6 @@ python3 scripts/test_google.py
 - `memory/` — raw daily session notes. Personal logs, not meant for public consumption.
 - `meal-planning/` — weekly meal plans and family food preferences.
 - `google_token.json` — live OAuth credential. Never commits, never shares.
-- `FUTURE_KATE.md` — personal reflections and deferred intentions.
 
 The architecture, philosophy, and operational patterns are all here. The personal data isn't.
 
@@ -156,7 +154,7 @@ The architecture, philosophy, and operational patterns are all here. The persona
 
 ## Status (April 2026)
 
-Heidi is in active daily use. Current working integrations: Gmail, Google Calendar, Google Docs, Google Sheets. Pending: Apple Reminders, full calendar write access to Haan Babies, Couple Calendar ID confirmation.
+Heidi is in active daily use. Current working integrations: Gmail, Google Calendar, Google Docs, Google Sheets, Apple Reminders.
 
 ---
 
