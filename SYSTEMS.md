@@ -56,14 +56,14 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 ## 📅 Sunday Family Brief
 **When:** Sunday, via email to [OWNER], [PARTNER], and [FAMILY MEMBER]
 
-1. Check all calendars for the coming week — Haan Babies, personal, couple
+1. Check all calendars for the coming week — [FAMILY NAME] Babies, personal, couple
 2. Identify anything **abnormal**: school events, early dismissals, music programs, appointments, special logistics
 3. Routine items (Wednesday gym class, Monday dance) are NOT included — exceptions and surprises only
 4. Note any [FAMILY MEMBER NICKNAME] flags — if [FAMILY MEMBER] is unavailable any day, flag it with "needs a plan"
 5. Draft email:
    - From: [AGENT EMAIL]
    - To: [OWNER EMAIL], [PARTNER EMAIL], [FAMILY EMAIL]
-   - Subject: `Haan Family Week Ahead 🌻 — [Month Day–Day]`
+   - Subject: `[FAMILY NAME] Family Week Ahead 🌻 — [Month Day–Day]`
    - Content: logistics-only, no child behavioral/developmental/health context
 6. Post FULL draft to [OWNER] via Telegram for review
 7. Send ONLY after [OWNER] replies with `[SEND PASSPHRASE]` as a standalone message
@@ -74,7 +74,7 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 ## 📬 Friday Coordination Ping ([FAMILY MEMBER])
 **When:** Friday afternoon (cron: 1:30 PM EDT Fridays)
 
-1. Check the Haan Babies calendar for Saturday and Sunday events [FAMILY MEMBER] should know about
+1. Check the [FAMILY NAME] Babies calendar for Saturday and Sunday events [FAMILY MEMBER] should know about
 2. Draft a check-in email to [FAMILY MEMBER]:
    - From: [AGENT EMAIL]
    - To: [FAMILY EMAIL] — CC: [OWNER EMAIL]
@@ -208,10 +208,10 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 |----------|-------------|--------------|-------|
 | [OWNER] personal | [OWNER] only | Read + Write | Handle with discretion |
 | Couple Calendar | [OWNER] + [PARTNER] | Read + Write | Coordinate with [PARTNER] when relevant |
-| Haan Babies | [OWNER] + [PARTNER] + [FAMILY MEMBER] | **Read only** | Kid logistics; [FAMILY MEMBER NICKNAME] flag = [FAMILY MEMBER] unavailable |
+| [FAMILY NAME] Babies | [OWNER] + [PARTNER] + [FAMILY MEMBER] | **Read only** | Kid logistics; [FAMILY MEMBER NICKNAME] flag = [FAMILY MEMBER] unavailable |
 | 🌻 Heidi | Heidi's write space | Read + Write | OOO events → always add [OWNER WORK EMAIL] as guest (sendUpdates=all) |
 
-**[FAMILY MEMBER NICKNAME] flag:** Any "[FAMILY MEMBER NICKNAME]" in a Haan Babies event title means [FAMILY MEMBER] won't be available. Flag in weekly overview — needs a plan for who handles kids, pickups, drop-offs.
+**[FAMILY MEMBER NICKNAME] flag:** Any "[FAMILY MEMBER NICKNAME]" in a [FAMILY NAME] Babies event title means [FAMILY MEMBER] won't be available. Flag in weekly overview — needs a plan for who handles kids, pickups, drop-offs.
 
 ---
 

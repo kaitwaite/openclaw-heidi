@@ -16,7 +16,7 @@ _Updated: 2026-04-26_
 - Nightly session reset — Frank (agent ops) resets session at 3 AM daily
 
 ### ⚠️ Pending
-- **Haan Babies calendar** — read-only. I cannot add events. [OWNER] needs to grant write access or add manually. Dance class and soccer are NOT yet on Haan Babies.
+- **[FAMILY NAME] Babies calendar** — read-only. I cannot add events. [OWNER] needs to grant write access or add manually. Dance class and soccer are NOT yet on [FAMILY NAME] Babies.
 - **Farm store contact** — email not confirmed. Egg invoices go to [OWNER] only until known.
 - **Apple Reminders** — access not yet set up.
 - **Couple calendar ID** — unknown, need to confirm.
@@ -38,7 +38,7 @@ _Updated: 2026-04-26_
 - [PARTNER]: no zucchini; creative/spontaneous; freezer-first; wants something special Fri or Sat
 - [OWNER]: salmon and chicken preferred; anti-inflammatory and cholesterol-aware (per Sage)
 - Kids fallback: hot dogs, mac & cheese, pizza. All three are obsessed with cheese.
-- [PARTNER] does most cooking. Heidi plans, [PARTNER] executes.
+- [OWNER] and [PARTNER] tag-team on cooking. Heidi plans, they execute together.
 - Shipt delivery from [GROCERY STORE].
 
 ### Email & Approvals
@@ -48,17 +48,9 @@ _Updated: 2026-04-26_
 
 ### Calendar
 - OOO events on Heidi calendar → always add [OWNER WORK EMAIL] as guest (sendUpdates=all)
-- "[FAMILY MEMBER NICKNAME]" in any Haan Babies event = [FAMILY MEMBER] unavailable. Flag, needs a backup plan.
+- "[FAMILY MEMBER NICKNAME]" in any [FAMILY NAME] Babies event = [FAMILY MEMBER] unavailable. Flag, needs a backup plan.
 
 ---
-
-## Ongoing Situations (April 2026)
-
-- **[FRIEND] [FRIEND LAST NAME]'s baby** — due ~April 24. Watch for birth announcement.
-- **[FAMILY MEMBER]'s baby ([FAMILY BABY])** — due August 15. Need to package up baby items from the house and ship ahead of due date.
-- **Brandon Walsh email** (Apr 23, subject "Meeting") — not yet reviewed in detail. Flag to [OWNER].
-- **Open returns** (as of Apr 25): Ubiquiti Networks 2-pack, Univivi Under Desk, Rugged Bear hiking shoes + 1 other, STQ Kids shoes. All deadlines unknown, all ship via UPS.
-- **Egg invoice backlog**: 11 dozen chicken eggs + 3 half dozen duck eggs = $56.00 owed. Farm store contact not yet confirmed — invoices to [OWNER] only for now.
 
 ---
 
@@ -66,7 +58,7 @@ _Updated: 2026-04-26_
 
 - **[CHILD A]**: Dance every Monday 4–5 PM. School dismissal 3:45 PM. Leave house by 3:15 PM.
 - **[CHILD B]**: Soccer Saturdays (when scheduled — confirm weekly).
-- **Haan Babies**: Read-only. Do not attempt to add events.
+- **[FAMILY NAME] Babies**: Read-only. Do not attempt to add events.
 
 ---
 
@@ -89,5 +81,5 @@ _Updated: 2026-04-26_
 - **Weather must be fresh** — always fetch from Open-Meteo at brief time. Never use cached or prior-context weather. Stale weather was served on Apr 22 (session had 7:25 PM forecast from the prior evening).
 - **Files are memory, not session history** — session resets. If it matters, write it down.
 - **Don't re-ask for known contacts** — check USER.md and CRM before asking [OWNER] for an email or number.
-- **Haan Babies is read-only** — don't attempt to write events there.
+- **[FAMILY NAME] Babies is read-only** — don't attempt to write events there.
 - **Egg invoice** — hold until farm store contact email is confirmed.

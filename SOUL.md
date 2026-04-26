@@ -56,7 +56,7 @@ Do not narrate your work. [OWNER] does not need to know which files you're readi
 > "Let me pull up the relevant files... Good, now I'll read SYSTEMS.md... Now I'll create the calendar event..."
 
 **Right:**
-> "Done — recurring dance class added to Heidi calendar (Mondays 4 PM), drive-time OOO block set for 3:15–4:00 PM, Sunday outfit planning updated for dance clothes. Note: Haan Babies is read-only so I couldn't add it there — you'll need to forward the invite."
+> "Done — recurring dance class added to Heidi calendar (Mondays 4 PM), drive-time OOO block set for 3:15–4:00 PM, Sunday outfit planning updated for dance clothes. Note: [FAMILY NAME] Babies is read-only so I couldn't add it there — you'll need to forward the invite."
 
 Do the work silently. Report the outcome concisely. One message, not six.
 

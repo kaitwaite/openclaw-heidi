@@ -18,7 +18,7 @@ _Resource IDs, endpoints, scripts, and configuration. Update this when anything 
 | 🌻 Heidi (Heidi's write space) | `[EMAIL REDACTED]` | Read + Write |
 | [OWNER] Personal | `[OWNER EMAIL]` | Read + Write |
 | Couple Calendar | `[EMAIL REDACTED]` | Read + Write |
-| Haan Babies | `[CALENDAR ID]` | **Read only** |
+| [FAMILY NAME] Babies | `[CALENDAR ID]` | **Read only** |
 
 **OOO events on Heidi calendar:** always add `[OWNER WORK EMAIL]` as guest with `sendUpdates=all`
 

@@ -34,28 +34,28 @@ _Last Updated: 2026-04-25_
 	- Mom: [FAMILY MEMBER] [FAMILY NAME]
 	- Dad: [FAMILY MEMBER]
 
-### [PARTNER] Haan
+### [PARTNER] [FAMILY NAME]
 - **Relationship:** Husband
 - **Email:** [PARTNER EMAIL]
 - **Phone #:** +[PHONE REDACTED]
 - **Birthday:** 08/05/1985 (text + card)
 - **Anniversary:** 09/30/2017 (text + card)
 - **Key Facts:**
-	- Twin brother: [PARTNER IN LAW] Haan
+	- Twin brother: [PARTNER IN LAW] [FAMILY NAME]
 	- Wife: [OWNER]
-	- Daughter: [CHILD A] Haan
-	- Daughter: [CHILD B] Haan
-	- Son: [CHILD C] Haan
+	- Daughter: [CHILD A] [FAMILY NAME]
+	- Daughter: [CHILD B] [FAMILY NAME]
+	- Son: [CHILD C] [FAMILY NAME]
 
-### [CHILD A] Haan
+### [CHILD A] [FAMILY NAME]
 - **Relationship:** Daughter
 - **Birthday:** 05/08/2019
 
-### [CHILD B] Haan
+### [CHILD B] [FAMILY NAME]
 - **Relationship:** Daughter
 - **Birthday:** 06/16/2022
 
-### [CHILD C] Haan
+### [CHILD C] [FAMILY NAME]
 - **Relationship:** Son
 - **Birthday:** 05/24/2024
 - **Key Facts:**
@@ -67,13 +67,13 @@ _Last Updated: 2026-04-25_
 - **Key Facts:**
 	- Wife: [FAMILY MEMBER] [FAMILY NAME]
 
-### [PARTNER IN LAW] Haan
+### [PARTNER IN LAW] [FAMILY NAME]
 - **Relationship:** Brother-in-Law
 - **Birthday:** 08/05/1985 (text + card)
 - **Anniversary:** 09/05/2020 (text)
 - **Key Facts:**
 	- Lives in Bozeman, MT
-	- Twin brother: [PARTNER] Haan
+	- Twin brother: [PARTNER] [FAMILY NAME]
 	- Wife: Rebecca Fox
 	- Daughter: Faye
 	- Daughter: [FAMILY CHILD]
@@ -85,19 +85,19 @@ _Last Updated: 2026-04-25_
 - **Anniversary:** 09/05/2020 (text)
 - **Key Facts:**
 	- Lives in Bozeman, MT
-	- Husband: [PARTNER IN LAW] Haan
+	- Husband: [PARTNER IN LAW] [FAMILY NAME]
 	- Daughter: Faye
 	- Daughter: [FAMILY CHILD]
 	- Son: Finn
 
-### [FRIEND] Haan
+### [FRIEND] [FAMILY NAME]
 - **Relationship:** Mother-in-Law
 - **Birthday:** 02/19 (text + card)
 - **Anniversary:** 10/04/2010 (text)
 - **Key Facts:**
 	- Wife: Val Osowski
-	- Son: [PARTNER] Haan
-	- Son: [PARTNER IN LAW] Haan
+	- Son: [PARTNER] [FAMILY NAME]
+	- Son: [PARTNER IN LAW] [FAMILY NAME]
 	- Daughter: Katie Cuff
 
 ### Val Osowski
@@ -105,7 +105,7 @@ _Last Updated: 2026-04-25_
 - **Birthday:** 03/28 (text + card)
 - **Anniversary:** 10/04/2010 (text)
 - **Key Facts:**
-	- Wife: [FRIEND] Haan
+	- Wife: [FRIEND] [FAMILY NAME]
 
 ### [FAMILY MEMBER]
 - **Relationship:** Step-Dad
