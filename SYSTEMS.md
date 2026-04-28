@@ -5,6 +5,11 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 
 ---
 
+## ⚠️ Calendar Date Rule
+**Always derive day-of-week programmatically from the date.** Never assume or guess what day of the week a date falls on. Use Python's `datetime.strptime` to get the weekday name from any date string before including it in a brief or email. Day/date mismatches are a trust-breaking error.
+
+---
+
 ## 🍕 Meal Planning
 **When:** Saturday EOD (Sage drops health notes) → plan ready Sunday morning
 
