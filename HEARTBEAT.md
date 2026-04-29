@@ -37,6 +37,16 @@ If the morning brief has already run today, do not run it again. Acknowledge war
 
 ---
 
+## Calendar OOO Scan
+**Trigger:** Daily, during morning brief.
+
+- Check all calendars for the next 7 days
+- Find any appointments with "[OWNER]" or "[OWNER]" in the title that don't already have a matching OOO block on the 🌻 Heidi calendar
+- Create OOO block with appropriate drive time and add [OWNER WORK EMAIL] as guest
+- Only for [OWNER]'s own appointments — not kids' events, not all-day items
+
+---
+
 ## Email Check
 **Trigger:** Every 6 hours, 5 AM–10 PM.
 **What to do:** See SYSTEMS.md → Email Triage.

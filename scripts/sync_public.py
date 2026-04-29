@@ -82,7 +82,8 @@ def sync(dry_run=False, push=False):
     skipped = []
 
     # Files/dirs to preserve in dest even if not in source
-    preserve = set(config.get("exclude_files", []) + [".git", ".gitignore"])
+    # Include exclude_dirs so stub directories aren't wiped on each sync
+    preserve = set(config.get("exclude_files", []) + config.get("exclude_dirs", []) + [".git", ".gitignore"])
 
     # Clear dest except preserved files and .git
     for item in DEST.iterdir():

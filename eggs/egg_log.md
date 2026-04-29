@@ -1,12 +1,12 @@
 # Egg Sales Log
 
 ## Pricing
-- Chicken eggs: $4.00 / dozen
-- Duck eggs: $4.00 / half dozen
+- Chicken eggs: [AMOUNT] / dozen
+- Duck eggs: [AMOUNT] / half dozen
 
 ## Contact
-- Name: TBD
-- Email: TBD
+- Name: [FARM STORE]
+- Email: [EMAIL REDACTED]
 
 ---
 
@@ -14,18 +14,15 @@
 
 | Date | Item | Qty | Unit Price | Total |
 |------|------|-----|------------|-------|
-| 2026-02-21 | Chicken eggs | 2 dozen | $4.00 | $8.00 |
-| 2026-02-21 | Duck eggs | 1 half dozen | $4.00 | $4.00 |
-| 2026-03-28 | Chicken eggs | 3 dozen | $4.00 | $12.00 |
-| 2026-03-28 | Duck eggs | 2 half dozen | $4.00 | $8.00 |
-| 2026-04-21 | Chicken eggs | 6 dozen | $4.00 | $24.00 |
+| YYYY-MM-DD | Chicken eggs | X dozen | [AMOUNT] | [AMOUNT] |
+| YYYY-MM-DD | Duck eggs | X half dozen | [AMOUNT] | [AMOUNT] |
 
 ---
 
 ## Invoiced
-- Nothing invoiced yet (backlog from 2026 pending first invoice)
+_Records of invoiced entries with dates._
 
 ## Running Balance (uninvoiced)
-- Chicken eggs: 11 dozen = **$44.00**
-- Duck eggs: 3 half dozen = **$12.00**
-- **Total owed: $56.00**
+- Chicken eggs: X dozen = **[AMOUNT]**
+- Duck eggs: X half dozen = **[AMOUNT]**
+- **Total owed: [AMOUNT]**

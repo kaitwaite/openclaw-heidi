@@ -40,6 +40,8 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 ---
 
 ## 🥚 Egg Sales Tracking
+**Drop-off reminders:** When [OWNER] tells me an egg drop-off day, immediately add it to 🌻 Personal To-Dos in Reminders with the correct due date. Never rely on daily memory notes for time-sensitive reminders.
+
 **When:** [OWNER] texts the weekly egg count. Invoice on the 1st of each month.
 
 **Logging (when [OWNER] sends a count):**
