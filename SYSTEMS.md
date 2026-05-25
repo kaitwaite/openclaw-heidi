@@ -19,6 +19,7 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
   `osascript -e 'tell application "Reminders" to make new reminder at list "Groceries" with properties {name: "ITEM 🌻"}'`
 - **Staples** go in their own `Staples` category — add under that section name; meal-specific items go in the relevant section (Produce, Protein, Dairy, etc.)
 - Before adding, check for duplicates — skip items already on the list
+- Cross-reference against `meal-planning/staples.md` before adding meal-specific items — skip anything already covered by the staples list
 - This applies in all contexts: Sunday grocery planning, ad-hoc additions from emails, [FAMILY MEMBER] suggestions, etc.
 
 ### Cron (runs 4 AM Sunday, isolated session)
