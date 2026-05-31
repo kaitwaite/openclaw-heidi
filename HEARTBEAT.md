@@ -88,10 +88,20 @@ If the morning brief has already run today, do not run it again. Acknowledge war
 - Calendar event coming up within 2 hours
 - It's been more than 8 hours since last contact
 
-## When to Stay Quiet (HEARTBEAT_OK)
+## When to Stay Quiet — respond with NO_REPLY ONLY
+**If none of the "When to Reach Out" triggers apply: respond with NO_REPLY and nothing else.**
+Do NOT explain what you checked. Do NOT say "HEARTBEAT_OK". Do NOT narrate what you couldn't do.
+NO_REPLY means the entire message is literally just: NO_REPLY
+
+Stay quiet when:
 - 11 PM–8 AM unless urgent
 - Nothing new since last check
 - Checked within the last 30 minutes
+- Email check is due but no actionable emails found
+- Pending groceries file doesn't exist
+- No time-sensitive calendar events
+
+**The rule is simple: if you have nothing useful to tell [OWNER], say nothing.**
 
 ---
 
