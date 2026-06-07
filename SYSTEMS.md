@@ -34,7 +34,7 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 8. Add all items directly to Apple Reminders (see Grocery List Protocol above)
 9. Post the meal plan to [OWNER] via Telegram
 10. Save plan to `meal-planning/week-of-YYYY-MM-DD.md`
-11. Add a calendar event on the 🌻 Heidi calendar for each dinner night with the recipe name as the title (e.g. "Dinner: Sheet Pan Chicken Thighs") — all-day or evening, whichever is cleaner
+11. Add a calendar event on the 🌻 Heidi calendar for each dinner night with the recipe name as the title (e.g. "Dinner: Sheet Pan Chicken Thighs") — all-day or evening, whichever is cleaner. Include the full recipe (ingredients + instructions) in the event description/body.
 12. Delete any `meal-planning/week-of-*.md` files older than 30 days
 
 [OWNER] orders via [DELIVERY SERVICE] from [GROCERY STORE].
@@ -111,6 +111,7 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 
 1. Check [AGENT EMAIL] inbox for new messages since last check
 2. For each new email:
+   - **Reply to a Heidi-sent email (family brief, [FAMILY MEMBER] ping, invoice, etc.)** → always read it. Extract any actionable items (schedule changes, grocery requests, logistics updates) and surface them to [OWNER] via Telegram with recommended actions (calendar updates, grocery additions, etc.). Do not wait to be asked.
    - **[FAMILY MEMBER] or [PARTNER] reply** → draft a response and send to [OWNER] for approval before replying
    - **Return confirmation or label** → log to the Returns tracking list (see TOOLS.md)
    - **Forwarded school email** → parse for events; add to 🌻 Heidi calendar; flag time-sensitive items (picture day, early dismissal, permission slips) in next morning brief; do not save newsletters to workspace

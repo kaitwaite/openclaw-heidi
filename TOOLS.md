@@ -30,7 +30,7 @@ _Resource IDs, endpoints, scripts, and configuration. Update this when anything 
 |----------|----|---------|
 | Sage ↔ Heidi Meal Planning Doc | `[DOC ID]` | Sage writes health notes by Saturday EOD; Heidi reads for meal planning |
 | Returns tracking list | `🌻 Heidi - Returns` list in Apple Reminders | Log return items; surface Saturdays + urgent nudge within 3 days |
-| Grocery list | Shared **Groceries** list in Apple Reminders | Add items directly via osascript with 🌻 suffix: `osascript -e 'tell application "Reminders" to make new reminder at list "Groceries" with properties {name: "ITEM 🌻"}'` — staples go in the Staples category; no staging file needed |
+| Grocery list | Shared **Groceries** list in Apple Reminders | Add items directly via osascript with 🌻 suffix: `osascript -e 'tell application "Reminders" to make new reminder at list "Groceries" with properties {name: "ITEM 🌻"}'` — staples use 🧺 suffix instead of 🌻; no staging file needed. AppleScript cannot write to Reminders sections/categories — emoji suffix is how we distinguish item types. |
 
 ---
 
