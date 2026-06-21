@@ -183,6 +183,19 @@ _Triggers and timing live in HEARTBEAT.md. Resource IDs live in TOOLS.md._
 
 **[FAMILY MEMBER NICKNAME] flag:** Any "[FAMILY MEMBER NICKNAME]" in a [FAMILY NAME] Babies event title means [FAMILY MEMBER] won't be available. Flag in weekly overview — needs a plan for who handles kids, pickups, drop-offs.
 
+### OOO Block Sync
+**When:** Daily during morning brief (14-day lookahead).
+
+**Logic:** Scan [OWNER] Personal calendar for timed events [OWNER] has *accepted or created*. Also scan Couple Calendar for events with [OWNER]/[OWNER]/hair/chiro/doctor/appointment in the title. Skip all-day events, kids' events (camp, soccer, birthday parties), and household items (recycling, cow milk, bills).
+
+**For each qualifying appointment without a matching OOO block on the 🌻 Heidi calendar:**
+1. Create an OOO block: `OOO — [event name]`
+2. In-person appointments: add ~45 min drive time before (and buffer after if needed)
+3. Virtual appointments: match exact event time only
+4. Always add `[OWNER WORK EMAIL]` as guest with `sendUpdates=all`
+
+**Matching:** An OOO block counts as covering an appointment if the OOO start time is ≤ the appointment start and OOO end time is ≥ the appointment end.
+
 ---
 
 ## 🌤️ Weather
